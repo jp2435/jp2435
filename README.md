@@ -11,3 +11,5 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  
  ![Snake animation](https://github.com/jp2435/jp2435/blob/output/github-contribution-grid-snake.svg)
+
+ ![Visitor Count](https://profile-counter.glitch.me/{jp2435}/count.svg)
