@@ -7,10 +7,9 @@
 </div>
 
 <a href="https://instagram.com/jorge_cp2435" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/jorge_CP2435" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  ![CodeWars](https://www.codewars.com/users/jp2435/badges/micro)
  
- ![Snake animation](https://github.com/jp2435/jp2435/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/jp2435/jp2435/blob/output/github-contribution-grid-snake.svg) -->
 
  ![Visitor Count](https://profile-counter.glitch.me/{jp2435}/count.svg)
